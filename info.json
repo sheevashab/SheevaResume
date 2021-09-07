@@ -1,0 +1,26 @@
+{
+  "name": "Sheeva Shabahang",
+  "website": "https://www.instagram.com/sheevashab/",
+  "linkedin": "https://www.linkedin.com/in/sheeva-shabahang-2255a562/",
+  "github": "sheevashab",
+  "email": "sheeva.shabahang@gmail.com",
+  "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+  "proficientTechnologies": [
+    "Javascript",
+    "React",
+    "Vue",
+    "Node",
+    "Express",
+    "Mongodb",
+    "PostgreSQL",
+    "Python",
+    "Django",
+    "Wordpress",
+    "Drupal"
+  ],
+  "otherSkills": [
+    "Unagi",
+    "Five Finger Fillet",
+    "Bridge"
+  ]
+}

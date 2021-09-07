@@ -1,0 +1,14 @@
+{
+  "name": "sheevashabahang-resume",
+  "version": "1.0.0",
+  "description": "sheevasresume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sheeva shabahang",
+  "license": "ISC",
+  "bin": {
+    "resume-me": "./index.js"
+  }
+}
